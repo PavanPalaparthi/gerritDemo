@@ -1,1 +1,2 @@
  This is my first line.
+ This line is added in localBranch
